@@ -1,5 +1,5 @@
 {
-  "name": "simplicate/rainforest-auth-php",
+  "name": "simplicate/rainforest-auth",
   "description": "PHP port of Rainforest QA's rainforestapp/auth Ruby gem - allows verification of Rainforest webhook messages using your private API key.",
   "type": "package",
   "homepage": "https://www.simplicate.nl",
